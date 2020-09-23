@@ -1,7 +1,9 @@
 # Vue 3 Notes
 
 v-form
-v-model
+
+### v-model
+  
 
 ### v-if / v-show
   * if will mount or unmount the component
@@ -10,3 +12,10 @@ v-model
 ### v-if / v-else
 
 ### v-bind or : 
+
+### Mustache Template
+  {{ variable }}
+  v-text='variable' 
+
+  both statements are the same
+
